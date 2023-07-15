@@ -1,0 +1,101 @@
+- title: README
+  file: /README
+- title: Structuring the problem and work planning
+  file: /Structuring the problem and work planning/Intro
+  sections:
+    - title: Plan
+      file: /Structuring the problem and work planning/Plan
+    - title: Database Schema
+      file: /Structuring the problem and work planning/Database Schema
+    - title: Method
+      file: /Structuring the problem and work planning/Method
+    - title: The database schema
+      file: /Structuring the problem and work planning/The database schema
+    - title: Customer engagement
+      file: /Structuring the problem and work planning/Customer engagement
+- title: Engaging the customer
+  file: /Engaging the customer/Detailed evidence of requirements analysis
+  sections: []
+- title: Data Gathering
+  file: /Data Gathering/A range of of simple and complex SQL statements to draw data from the database
+  sections:
+    - title: Bike Sales
+      file: /Data Gathering/Bike Sales
+    - title: Total product count
+      file: /Data Gathering/Total product count
+    - title: Sales detail
+      file: /Data Gathering/Sales detail
+    - title: Total Revenue
+      file: /Data Gathering/Total Revenue
+    - title: Average revenue
+      file: /Data Gathering/Average revenue
+    - title: Customers list
+      file: /Data Gathering/Customers list
+    - title: Products list with the overall sales totals for each
+      file: /Data Gathering/Products list with the overall sales totals for each
+    - title: Which customers have been buying certain products
+      file: /Data Gathering/Which customers have been buying certain products
+    - title: 'To provide you with a list of products sorted by salesperson last name, together with the total number of sales for each product.'
+      file: '/Data Gathering/To provide you with a list of products sorted by salesperson last name, together with the total number of sales for each product.'
+    - title: The products listed below are sorted by customer last name and salesperson last name and include the total number of sales for each product.
+      file: /Data Gathering/The products listed below are sorted by customer last name and salesperson last name and include the total number of sales for each product.
+    - title: 'This will provide you with a list of items and the total number of sales for each product, sorted by total sales and grouped by customer and salesperson last names.'
+      file: '/Data Gathering/This will provide you with a list of items and the total number of sales for each product, sorted by total sales and grouped by customer and salesperson last names.'
+    - title: 'This will provide you with a list of products with a price higher than 50 along with the overall number of sales and average price for each product, all organised by product name.'
+      file: '/Data Gathering/This will provide you with a list of products with a price higher than 50 along with the overall number of sales and average price for each product, all organised by product name.'
+    - title: List of clients along with the total amount of sales they have generated
+      file: /Data Gathering/List of clients along with the total amount of sales they have generated
+    - title: Customer loyalty
+      file: /Data Gathering/Customer loyalty
+    - title: Customer spending total
+      file: /Data Gathering/Customer spending total
+    - title: Which items are most frequently bought by each customer
+      file: /Data Gathering/Which items are most frequently bought by each customer
+    - title: Which salesperson has closed the most deals with a specific client
+      file: /Data Gathering/Which salesperson has closed the most deals with a specific client
+    - title: Summary
+      file: /Data Gathering/Summary
+- title: Conducting analysis
+  file: '/Conducting analysis/Use of a programming approach to fully explore, visualise and describe the data'
+  sections:
+    - title: Customers database into a DataFrame & Display the first few rows
+      file: /Conducting analysis/Customers database into a DataFrame & Display the first few rows
+    - title: Total quantity sold by each SalesPersonID
+      file: /Conducting analysis/Total quantity sold by each SalesPersonID
+    - title: Customers and Sales databases by CustomerID
+      file: /Conducting analysis/Customers and Sales databases by CustomerID
+    - title: Products sold were price is greater than $100
+      file: /Conducting analysis/Products sold were price is greater than $100
+    - title: Scatter plot showing the relationship between SalesID and Quantity
+      file: /Conducting analysis/Scatter plot showing the relationship between SalesID and Quantity
+    - title: Sales of Products with 'Mountain' or 'Frame' in the Name
+      file: /Conducting analysis/Sales of Products with 'Mountain' or 'Frame' in the Name
+    - title: Sales by Product
+      file: /Conducting analysis/Sales by Product
+    - title: Sales by employee
+      file: /Conducting analysis/Sales by employee
+    - title: Sales by customer
+      file: /Conducting analysis/Sales by customer
+    - title: Customer Sales
+      file: /Conducting analysis/Customer Sales
+    - title: Customer loyalty
+      file: /Conducting analysis/Customer loyalty
+- title: Developing insight and making recommendations
+  file: /Developing insight and making recommendations/A detailed explanation of what each analysis has shown
+  sections:
+    - title: Trends and patterns
+      file: /Trends and patterns
+    - title: Sales insights
+      file: /Developing insight and making recommendations/Sales insights
+    - title: Top 10
+      file: /Developing insight and making recommendations/Top 10/Top 10
+      sections: []
+    - title: Top ten
+      file: /Developing insight and making recommendations/Top ten
+- title: Communicating recommendations
+  file: /Communicating recommendations/A range of recommendations explained on the basis of analysis
+  sections:
+    - title: Potential problems or suggestions for database schema
+      file: '/Communicating recommendations/Potential problems or suggestions for database schema '
+- title: Loading Data
+  file: /Loading Data
